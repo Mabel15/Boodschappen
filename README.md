@@ -3,3 +3,5 @@ appels
 brood
 vla
 melk
+pindakaas
+
